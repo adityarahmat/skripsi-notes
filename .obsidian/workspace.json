@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rancangan/1. Pendahuluan.md",
+                "file": "Rancangan/2. Tinjauan Pustaka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Pendahuluan"
+              "title": "2. Tinjauan Pustaka"
             }
           }
         ]
@@ -159,10 +159,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "226638ef798462e3",
+  "active": "619997c8e2f77807",
   "lastOpenFiles": [
-    "Reference.md",
     "Rancangan/1. Pendahuluan.md",
+    "Reference.md",
     "Nulis/BAB 1.md",
     "Skripsi.md",
     "Rancangan/2. Tinjauan Pustaka.md",
