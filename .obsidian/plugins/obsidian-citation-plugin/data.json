@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "literature",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\ndoi: {{DOI}}\nzotero: {{zoteroSelectURI}}\ntags: literature\n---\n\n## Introduction\n\n- \n\n## Method\n\n- \n\n## Result/Discussion\n\n- \n\n## Conclusion\n\n- \n\n\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "bibliography.bib"
+}

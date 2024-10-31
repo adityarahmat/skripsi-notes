@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rancangan/2. Tinjauan Pustaka.md",
+                "file": "literature/@boonsirisumpunVehicleImageDatasets2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Tinjauan Pustaka"
+              "title": "@boonsirisumpunVehicleImageDatasets2024"
             }
           }
         ]
@@ -161,12 +161,18 @@
   },
   "active": "619997c8e2f77807",
   "lastOpenFiles": [
-    "Rancangan/1. Pendahuluan.md",
-    "Reference.md",
-    "Nulis/BAB 1.md",
-    "Skripsi.md",
     "Rancangan/2. Tinjauan Pustaka.md",
+    "literature/@boonsirisumpunVehicleImageDatasets2024.md",
+    "literature/@boonsirisumpunEnsembleMultipleCNNs2022.md",
+    "Rancangan/1. Pendahuluan.md",
+    "nulis (ntar aja)/BAB 1.md",
+    "Rancangan/3. Metode Penelitian.md",
     "Rancangan/4. Penelitian dan Pembahasan.md",
-    "Rancangan/3. Metode Penelitian.md"
+    "Referensi dari Skripsi Orang.md",
+    "Rancangan Awal.md",
+    "literature/@boonsirisumpunEnsembleMultipleCNNs.md",
+    "literature",
+    "bibliography.bib",
+    "New folder"
   ]
 }

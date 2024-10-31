@@ -1,4 +1,4 @@
-# PENDAHULUAN
+# PENDAHULUAN (Perlu Update, nunggu dari Pak Eko)
 Bab ini membahas mengenai latar belakang, rumusan masalah, manfaat dan tujuan,
 ruang lingkup, dan sistematika penulisan pada skripsi yang berjudul Optimasi Model Klasifikasi Jenis Kendaraan Menggunakan Model CNN dengan Arsitektur MobileNetV2.
 1. Latar Belakang
